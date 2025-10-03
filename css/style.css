@@ -277,6 +277,9 @@ section h2 {
     padding-top: 94px;
     width: 16%;
 }
+.gallery_slider img {
+    height: auto;
+}
 
 /* EVENT */
 .event {

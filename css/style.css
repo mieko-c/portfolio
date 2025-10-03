@@ -67,6 +67,12 @@ section h2 {
 }
 
 /* リセットcssここまで */
+.slider {
+    display: none;
+}
+.slider.slick-initialized {
+    display: block; /*slick-initializedが付与されたら表示*/
+}
 
 .header_wrap {
     position: absolute;
